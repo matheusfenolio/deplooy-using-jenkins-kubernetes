@@ -1,0 +1,11 @@
+{
+  "name": "deplooy-using-jenkins-kubernetes",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "repository": "https://github.com/matheusfenolio/deplooy-using-jenkins-kubernetes.git",
+  "author": "Matheus Prado <matheusfenoliodoprado@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
